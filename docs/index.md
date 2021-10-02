@@ -8,7 +8,7 @@ cd app
 ```
 3. We will unarchive the `.zip` file we downloaded from this site and put it in our folder called `app`
 4. create a file named script.js
-5. 
+5. Writing code in script.js:
 ```js
 // script.js
 
@@ -22,3 +22,7 @@ boldpen.run(`${new Date()}`);
 node script.js log.txt
 ```
 8. Result:
+```
+Fri Oct 01 2021 11:52:46 GMT+0500 (Узбекистан, стандартное время)
+```
+## Documentations
