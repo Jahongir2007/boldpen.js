@@ -5,3 +5,8 @@ The `run()` method value indicates the compilation of JS codes to the desired fi
 const bp = require('./boldpen/boldpen.js');
 bp.run(`${new Date()}`);
 ```
+### CLI key
+Using CLI key:
+```
+node yourfie.js yourfile
+```
