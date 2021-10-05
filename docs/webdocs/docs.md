@@ -10,3 +10,5 @@ Using CLI key:
 ```
 node yourfie.js yourfile
 ```
+`yourfile.js` - A file that uses the boldpen.js function.
+`yourfile` - A file that compiles JS codes
